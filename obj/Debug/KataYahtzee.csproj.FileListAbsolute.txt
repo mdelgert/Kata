@@ -1,0 +1,6 @@
+c:\users\mdelgert\documents\visual studio 2015\Projects\KataYahtzee\KataYahtzee\bin\Debug\KataYahtzee.exe.config
+c:\users\mdelgert\documents\visual studio 2015\Projects\KataYahtzee\KataYahtzee\bin\Debug\KataYahtzee.exe
+c:\users\mdelgert\documents\visual studio 2015\Projects\KataYahtzee\KataYahtzee\bin\Debug\KataYahtzee.pdb
+c:\users\mdelgert\documents\visual studio 2015\Projects\KataYahtzee\KataYahtzee\obj\Debug\KataYahtzee.csprojResolveAssemblyReference.cache
+c:\users\mdelgert\documents\visual studio 2015\Projects\KataYahtzee\KataYahtzee\obj\Debug\KataYahtzee.exe
+c:\users\mdelgert\documents\visual studio 2015\Projects\KataYahtzee\KataYahtzee\obj\Debug\KataYahtzee.pdb
